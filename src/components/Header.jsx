@@ -30,7 +30,7 @@ export default function Header() {
             ГАЗ, ВАЗ, ПАЗ, УАЗ, КАМАЗ
           </div>
 
-          <div className="ml-auto flex items-center gap-8 text-xs">
+          <div className="ml-auto flex items-center gap-8 text-xs bg-[#B7BACB] p-5 rounded-2xl">
             <div className="hidden lg:flex gap-2">
               <FiPhone className="text-red-600 mt-1" />
               <div>
